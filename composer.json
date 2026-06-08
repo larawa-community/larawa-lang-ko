@@ -1,0 +1,31 @@
+{
+    "name": "larawa/larawa-lang-ko",
+    "type": "larawa-plugin",
+    "description": "Korean dashboard language plugin for LaraWA.",
+    "homepage": "https://lara-wa.org",
+    "keywords": [
+        "larawa",
+        "larawa-plugin",
+        "language-pack",
+        "korean",
+        "translation"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LaraWA Community"
+        }
+    ],
+    "require": {
+        "php": "^8.4"
+    },
+    "support": {
+        "issues": "https://github.com/larawa-community/larawa-lang-ko/issues",
+        "source": "https://github.com/larawa-community/larawa-lang-ko"
+    },
+    "extra": {
+        "larawa": {
+            "manifest": "larawa-plugin.json"
+        }
+    }
+}

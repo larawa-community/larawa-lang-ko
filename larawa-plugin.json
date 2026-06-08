@@ -1,0 +1,19 @@
+{
+    "id": "larawa-lang-ko",
+    "name": "Korean Dashboard Translation",
+    "version": "1.0.0",
+    "type": "language",
+    "description": "Adds Korean translations for the LaraWA dashboard.",
+    "required_core_version": "^13.0",
+    "license_required": false,
+    "service_providers": [],
+    "translations": {
+        "larawa-lang-ko": "resources/lang"
+    },
+    "locales": {
+        "ko": {
+            "label": "Korean",
+            "native": "한국어"
+        }
+    }
+}
